@@ -1,6 +1,5 @@
-/vscode
+/.vscode
 /mask_detection_model
 /MaskImages
 
-.Mask_features.npy
-.Mask_labels.npy
+*.npy
